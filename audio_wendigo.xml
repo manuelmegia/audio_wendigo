@@ -1,0 +1,4 @@
+<Response>
+    <Say voice="woman">Burger King...Burger King...Burger King...Burger King...</Say>
+    <Play>https://cdn.jsdelivr.net/gh/manuelmegia/audio_wendigo@main/Wendigo%20Sounds.mp3</Play>
+</Response>
